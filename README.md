@@ -1,8 +1,11 @@
 <div align="center">
   <h1 align="center"> Hi, i'm Jano 👋</h1>
 </div>
-https://github.com/user-attachments/assets/c5a88152-19c9-4e28-83c8-355806661395
-https://github.com/Jano-Guerra11/Jano-Guerra11/issues/1#issue-2590289284
+
+<img src="https://github.com/user-attachments/assets/4d6ceb2f-f6a2-4a7f-a693-c590d6cab2e5">
+<video>
+  <source src="https://github.com/user-attachments/assets/b1906fed-14cc-4c0b-858b-58c3ea3a06da" type="mp4">
+</video>
 <!--
 **Jano-Guerra11/Jano-Guerra11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
