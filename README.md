@@ -1,10 +1,11 @@
 <div align="center">
   <h1 align="center"> Hi, i'm Jano 👋</h1>
 </div>
+https://github.com/user-attachments/assets/c6ba721a-05f8-44d8-b1f5-81d68e33d245
 
 <img src="https://github.com/user-attachments/assets/4d6ceb2f-f6a2-4a7f-a693-c590d6cab2e5">
 
-https://github.com/user-attachments/assets/e067f687-19ee-47a6-a3ab-96031b8e9c34
+
 
 
 <!--
