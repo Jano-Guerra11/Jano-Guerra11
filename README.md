@@ -1,7 +1,7 @@
 <div align="center">
   <h1 align="center"> Hi, i'm Jano 👋</h1>
 </div>
-<img src="C:\Users\USURIO\OneDrive\Imágenes\Banner-Linkedin.png">
+https://github.com/user-attachments/assets/c5a88152-19c9-4e28-83c8-355806661395
 <!--
 **Jano-Guerra11/Jano-Guerra11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
