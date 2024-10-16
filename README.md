@@ -2,6 +2,7 @@
   <h1 align="center"> Hi, i'm Jano 👋</h1>
 </div>
 https://github.com/user-attachments/assets/c5a88152-19c9-4e28-83c8-355806661395
+https://github.com/Jano-Guerra11/Jano-Guerra11/issues/1#issue-2590289284
 <!--
 **Jano-Guerra11/Jano-Guerra11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
