@@ -2,7 +2,7 @@
   <h1 align="center"> Hi, i'm Jano 👋</h1>
 </div>
 
-https://github.com/user-attachments/assets/7de4fb81-f1e9-4e8b-b1d6-eb4502fe8f59
+
 
 
 
